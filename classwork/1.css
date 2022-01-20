@@ -1,0 +1,81 @@
+#head{
+    width: 600px;
+    height: 70px;
+    background-color: cyan;
+    margin-bottom: 10px;
+}
+
+#Cont{
+    display: flex ;
+    width: 600px;
+
+
+
+
+}
+
+#C1{
+    display: block ;
+}
+
+
+#A{
+    width: 250px;
+    height: 180px;
+    background-color: plum;
+    margin-right: 10px;
+
+}
+
+
+#C{
+    width: 340px;
+    height: 280px;
+    background-color: orange;
+
+}
+
+
+#B{
+    margin-top: 10px;
+width: 250px;
+    height: 300px;
+    background-color: limegreen;
+
+}
+
+
+
+
+#D{
+    margin-top: 10px;
+    width: 340px;
+    height: 200px;
+    background-color: silver;
+
+}
+
+#C4{
+    margin-top: 10px;
+    display:flex;
+
+}
+#E{
+    width: 300px;
+    height: 180px;
+    background-color: lime;
+}
+
+#F{
+ width: 290px;
+    height: 180px;
+    background-color: blanchedalmond;
+    margin-left:  10px;
+}
+
+#G{
+    margin-top: 10px;
+    width: 600px;
+    height: 100px;
+    background-color: orange;
+}
